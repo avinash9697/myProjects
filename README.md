@@ -1,4 +1,1 @@
-# On - Demand Session
-
-- Identifying the State
-- Updating the styles based on State
+This is for identifying the state and updating the styles based on state
